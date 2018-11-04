@@ -1,4 +1,4 @@
-# FizzBuzz Test in Java
+# FizzBuzz game in Java
 
 FizzBuzz is a game usually asked to pass in programming job interviews. Other than solving the game correctly, it aims to highlight the programmer understanding of the basic and necessary tools such as if/else statements and loops.
 
